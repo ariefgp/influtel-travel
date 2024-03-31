@@ -46,7 +46,7 @@ const MobileMenu = () => {
         <ul className="mobile-nav__contact list-unstyled">
           <li>
             <i className="fa fa-envelope"></i>
-            <a href="mailto:needhelp@packageName__.com">needhelp@tevily.com</a>
+            <a href="mailto:admin@trinity.id">admin@trinity.id</a>
           </li>
           <li>
             <i className="fa fa-phone-alt"></i>

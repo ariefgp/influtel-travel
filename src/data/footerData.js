@@ -11,9 +11,9 @@ const footerData = {
   logo,
   social,
   year: new Date().getFullYear(),
-  author: "Tevily",
+  author: "Trinity Traveler",
   about:
-    "Welcome to our Trip and Tour Agency. Lorem simply text amet cing elit.",
+    "Welcome to your traveling partner. Lorem simply text amet cing elit.",
   icons: [
     {
       id: 1,
