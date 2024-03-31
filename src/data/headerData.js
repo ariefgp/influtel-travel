@@ -35,7 +35,8 @@ const navItems = [
   {
     id: 2,
     name: "Hotels",
-    href: "/destinations",
+    // href: "/destinations",
+    href: "/#",
     subNavItems: [
     //   { id: 1, name: "Destinations", href: "/destinations" },
     //   { id: 2, name: "Destinations Detail", href: "/destinations-details" },
@@ -44,11 +45,12 @@ const navItems = [
   {
     id: 3,
     name: "Tours",
-    href: "/tours",
+    href: "/#",
+    // href: "/tours",
     subNavItems: [
-      { id: 1, name: "Tours", href: "/tours" },
-      { id: 2, name: "Tours List", href: "/tours-list" },
-      { id: 3, name: "Tours Details", href: "/tour-details" },
+      // { id: 1, name: "Tours", href: "/tours" },
+      // { id: 2, name: "Tours List", href: "/tours-list" },
+      // { id: 3, name: "Tours Details", href: "/tour-details" },
     ],
   },
   // {

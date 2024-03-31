@@ -30,7 +30,7 @@ const footerData = {
     {
       id: 3,
       icon: "fas fa-map-marker-alt",
-      content: "Jl. Jenderal Sudirman No.71 Daerah Khusus Ibukota Jakarta 12190",
+      content: "Jl. Jenderal Sudirman No.71 \n Daerah Khusus Ibukota Jakarta 12190",
     },
   ],
   companies: [
