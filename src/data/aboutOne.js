@@ -9,7 +9,7 @@ const aboutOne = {
   phone: "+62 21 9887 3323",
   discount: "30%",
   tagline: "Get to know us",
-  title: "Plan Your Trip with Trevily",
+  title: "Plan Your Trip with Trinity Traveler",
   destination:
     "There are many variations of passages of available but the majority have suffered alteration in some form, by injected hum randomised words which don't look even slightly.",
   points: [
