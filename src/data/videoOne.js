@@ -2,7 +2,7 @@ import bg from "@/images/backgrounds/video-one-bg.jpg";
 
 const videoOne = {
   bg,
-  videoId: "Get7rqXYrbQ",
+  videoId: "#",
   tagline: "Are you ready to travel?",
   title: "Trinity Traveler is a World Leading Online Tour Booking Platform",
   iconBoxes: [
