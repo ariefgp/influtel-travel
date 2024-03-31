@@ -1,4 +1,4 @@
-import logo from "@/images/resources/footer-logo.png";
+import logo from "@/images/resources/logo-1.png";
 
 const social = [
   { icon: "fa-twitter", link: "" },
@@ -18,23 +18,24 @@ const footerData = {
     {
       id: 1,
       icon: "fas fa-phone-square-alt",
-      content: "+ 92 666 999 0000",
+      content: "+ 6221 9887 3323",
       subHref: "tel",
     },
     {
       id: 2,
       icon: "fas fa-envelope",
-      content: "needhelp@company.com",
+      content: "contact@trinity.id",
       subHref: "mailto",
     },
     {
       id: 3,
       icon: "fas fa-map-marker-alt",
-      content: "666 road, broklyn street new york",
+      content: "Jl. Jenderal Sudirman No.71 Daerah Khusus Ibukota Jakarta 12190",
     },
   ],
   companies: [
-    { id: 1, link: "/about", title: "About Us" },
+    { id: 1, link: "#", title: "About Us" },
+    // { id: 1, link: "/about", title: "About Us" },
     { id: 2, link: "#", title: "Community Blog" },
     { id: 3, link: "#", title: "Rewards" },
     { id: 4, link: "#", title: "Work with Us" },

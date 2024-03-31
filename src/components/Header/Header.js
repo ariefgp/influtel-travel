@@ -46,7 +46,7 @@ const Header = ({ pageTitle }) => {
                 </div>
                 <div className="main-header__top-right-btn-box">
                   <a href="#" className="thm-btn main-header__top-right-btn">
-                    Become a local guide
+                    Find The Best Hotel
                   </a>
                 </div>
               </div>

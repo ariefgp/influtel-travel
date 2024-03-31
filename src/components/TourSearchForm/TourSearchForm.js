@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import DatePicker from "react-datepicker";
 import Select from "react-select";
 
-const typeOptions = ["Adventure", "Wildlife", "Sightseeing"].map((it) => ({
+const typeOptions = ["Hotel", "Tour", "Adventure"].map((it) => ({
   value: it,
   label: it,
 }));
@@ -62,7 +62,7 @@ const customStyle = {
 
 const TourSearchForm = () => {
   const [startDate, setStartDate] = useState(new Date());
-  const [selected, setSelected] = useState("Adventure");
+  const [selected, setSelected] = useState("Hotel");
 
   const handleSelect = ({ value }) => {
     setSelected(value);
